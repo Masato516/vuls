@@ -25,8 +25,8 @@ import (
 	"github.com/future-architect/vuls/models"
 	"github.com/future-architect/vuls/util"
 	ovaldb "github.com/vulsio/goval-dictionary/db"
+	ovallog "github.com/vulsio/goval-dictionary/log"
 	ovalmodels "github.com/vulsio/goval-dictionary/models"
-	ovallog "github.com/vulsio/goval-dictionary/util"
 )
 
 type ovalResult struct {
